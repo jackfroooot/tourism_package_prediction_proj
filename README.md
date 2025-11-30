@@ -1,0 +1,2 @@
+# tourism_package_prediction_proj
+MLOps project assignment
